@@ -144,4 +144,12 @@ main {
         background-position: center;
         border-radius: 15px 0px 0px 15px;
     }
+    .container__button {
+        position:relative;
+    }
+    .container__button span {
+        position: absolute;
+        left: 74px;
+        top: 22px;
+    }
 }
